@@ -11,3 +11,4 @@ and the in-app one cannot disagree. Regenerate with
 
 - https://thedevvarun.github.io/flutter-wizard-site/privacy.html
 - https://thedevvarun.github.io/flutter-wizard-site/terms.html
+- https://thedevvarun.github.io/flutter-wizard-site/delete-account.html
